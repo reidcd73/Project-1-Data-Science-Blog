@@ -43,4 +43,5 @@ Figure 1 - https://www.researchgate.net/figure/Cross-Industry-Standard-Process-f
 
 https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f 
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0 
+
 https://medium.com/@josh_2774/a-comparison-of-airbnb-homes-seattle-vs-boston-cdc0df2cfcd7 
