@@ -37,8 +37,10 @@ Create a blog post on medium.com -
 
 # References :- 
 Udacity Data Science course notes and worksheets  https://classroom.udacity.com/
-Data - http://insideairbnb.com/get-the-data.html  then search for Bristol . 
+Data - http://insideairbnb.com/get-the-data.html  then search for Bristol 
+
 Figure 1 - https://www.researchgate.net/figure/Cross-Industry-Standard-Process-for-Data-Mining-CRISP-DM-12_fig1_320100474  
+
 https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f 
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0 
 https://medium.com/@josh_2774/a-comparison-of-airbnb-homes-seattle-vs-boston-cdc0df2cfcd7 
