@@ -33,7 +33,7 @@ Provide a clear connection between your business questions and how the data answ
 ## 4) Communicate your business insights:
 
 Created Github repository to share your code and data wrangling/modeling techniques
-Create a blog post on medium.com - 
+Create a blog post on medium.com - https://medium.com/@reidcd73/the-bristol-conundrum-solving-with-crisp-dm-9e05e59761c6
 
 # References :- 
 Udacity Data Science course notes and worksheets  https://classroom.udacity.com/
